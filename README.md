@@ -33,7 +33,8 @@ This project helps you add, view, update, and delete tasks — implementing full
    npm install
    node index.js
    Configure PostgreSQL
-
+ ---  
+   
 ##2.Create a PostgreSQL database (e.g. todo_db)
 
 -Create a table using SQL:
@@ -46,7 +47,8 @@ CREATE TABLE items (
 
 - visit project at   http://localhost:3000
 
-  
+---
+
 ##📌 Learning Highlights
 
 Through this project, I learned:
@@ -59,7 +61,10 @@ Through this project, I learned:
 
 -Structuring a full-stack web app from scratch.
 
+---
+
 ##🧠 Future Improvements
+
 -Add user authentication
 
 -Task deadlines & reminders
@@ -67,6 +72,8 @@ Through this project, I learned:
 -Responsive UI with better styling
 
 -Use Sequelize ORM
+
+---
 
 ##👨‍💻 Author
 Gowtham
