@@ -35,7 +35,7 @@ This project helps you add, view, update, and delete tasks — implementing full
    Configure PostgreSQL
  ---  
    
-##2.Create a PostgreSQL database (e.g. todo_db)
+## 2.Create a PostgreSQL database (e.g. todo_db)
 
 -Create a table using SQL:
 
@@ -49,7 +49,7 @@ CREATE TABLE items (
 
 ---
 
-##📌 Learning Highlights
+## 📌 Learning Highlights
 
 Through this project, I learned:
 
@@ -63,7 +63,7 @@ Through this project, I learned:
 
 ---
 
-##🧠 Future Improvements
+## 🧠 Future Improvements
 
 -Add user authentication
 
@@ -75,7 +75,7 @@ Through this project, I learned:
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Gowtham
   
    
